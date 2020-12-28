@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/linuxs/project/jenkinsTest/jenkinsTestApp/ApTest.cpp
+ApTest.h
+/home/linuxs/project/jenkinsTest/jenkinsTestApp/ApTest.h
+
+/home/linuxs/project/jenkinsTest/jenkinsTestApp/ApTest.h
+iostream
+-
+
+/home/linuxs/project/jenkinsTest/jenkinsTestApp/main.cpp
+iostream
+-
+ApTest.h
+/home/linuxs/project/jenkinsTest/jenkinsTestApp/ApTest.h
+stdio.h
+-
+
